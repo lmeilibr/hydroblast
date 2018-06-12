@@ -3,6 +3,8 @@ Software for classic Naval Architecture calculations.
 
 _based on Rui Gelehrter [gelehrter.com.br](http://www.gelehrter.com.br) archives._
 
+You can checkout the project website [here](https://lmeilibr.github.io/hydroblast/)
+
 ## TO-DO
 - ACEPAR - Stop and Acceleration
 - GEOHEL - Helix geometries
