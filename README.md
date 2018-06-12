@@ -1,7 +1,7 @@
 # hydroblast
 Software for classic Naval Architecture calculations.
 
-_based on Rui Gelehrter [gelehrter.com.br](gelehrter.com.br) archives._
+_based on Rui Gelehrter [gelehrter.com.br](http://www.gelehrter.com.br) archives._
 
 ## TO-DO
 - ACEPAR - Stop and Acceleration
